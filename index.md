@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/auroradesigsystem/aurora/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Infinitec faces many challenges while collaborating on a daily basis with many partners providing them with solutions for supporting their customers. One of the challenges facing us, as a team, as the business evolves is maintaining a consistent, cohesive and captivating experience across our digital ecosystem. Together, we’ve been working to create a design system as a centralized hub for showcasing our design rules, principles, and frontend components. It’s a place for people familiar with the Infinitec ecosystem, and for anyone wishing to learn more about our work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The system is specially created for desktop applications that satisfy financial and banking requirements and is committed to improving the experience of users and product designers. Taking advantage of unitary specifications, Aurora makes design and prototype more simple and accessible for all project members, which comprehensively promotes experience and development efficiency of our applications and products. 
 
 ### Markdown
 
